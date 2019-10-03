@@ -1,0 +1,12 @@
+#README
+Usage DictWebScrape.py words.csv spreadsheet.xlsx tags
+Webscraping Finnish words.
+
+How does the program work?
+User inputs a csv of words to program, program searches these words from redfox and/or wiktionary and puts them with their definitions into a spreadsheet.
+
+The spreadsheet contains word, definitions, tags (where the word came from), date the word was added, number of times word was printed out to user (used for memorising words effectively).
+
+Will produce another program to gameify the spreadsheets words so user can test their ability to recall words and their meanings.
+
+
